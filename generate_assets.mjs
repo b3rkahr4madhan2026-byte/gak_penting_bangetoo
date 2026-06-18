@@ -10,7 +10,7 @@ const envPath = path.join(__dirname, 'constant', '.env');
 if (fs.existsSync(envPath)) {
     dotenv.config({ path: envPath });
 } else {
-    console.error("ERROR: .env tidak ditemukan di " + envPath);
+    console.error("ERROR:  Mohon maaf, sistem mengalami gangguan);
     process.exit(1);
 }
 
@@ -22,7 +22,7 @@ for (let i = 1; i <= 15; i++) {
 }
 
 if (apiKeys.length === 0) {
-    console.error("ERROR: Tidak ada API_STITCH yang ditemukan di .env");
+    console.error("ERROR: Sistem mengalami ganguan");
     process.exit(1);
 }
 
@@ -38,7 +38,7 @@ async function generateImage() {
             // Asumsi: stitch.init atau cara autentikasi dilakukan di sini
             // (Sesuaikan dengan cara SDK Anda menginisialisasi apiKey tersebut)
             
-            const project = await stitch.createProject("Telegram_Assets_Engine", { apiKey });
+            const project = await stitch.createProject("KresnaAi_images", { apiKey });
             const screen = await project.generate(prompt);
             const imageUrl = await screen.getImage(); 
             
@@ -46,7 +46,7 @@ async function generateImage() {
             return; // Berhenti setelah berhasil
             
         } catch (error) {
-            console.warn("Gagal menggunakan API, mencoba kunci berikutnya... Error: " + error.message);
+            console.warn("Proses gagal coba ulangi kembali... Error: " + error.message);
             // Lanjut ke iterasi berikutnya (API kunci ke-n+1)
         }
     }
