@@ -31,36 +31,36 @@ if (apiKeys.length === 0) {
 const prompt = process.argv[2] || "A minimalist clean user interface";
 
 async function generateImage() {
-    // 2. Melakukan perulangan untuk mencoba setiap API jika yang sebelumnya gagal
     for (let i = 0; i < apiKeys.length; i++) {
         const apiKey = apiKeys[i];
         try {
-            console.log(`Mencoba API Stitch index ke-${i + 1}...`);
+            console.log(`Mencoba API Stitch ke-${i + 1}...`);
             
-            // TRIK: Set env variable global secara dinamis agar dibaca oleh SDK internal Google Stitch
-            process.env.STITCH_API_KEY = apiKey; 
-            process.env.GOOGLE_API_KEY = apiKey; // Beberapa versi SDK Google menggunakan fallback ini
-
-            // Jika SDK Anda mendukung inisialisasi client (Disarankan jika cara di atas gagal):
-            // const client = new stitch.StitchClient({ apiKey: apiKey });
-            // const project = await client.createProject("KresnaAi_images");
+            // Opsi A: Jika SDK menggunakan class Client/Stitch
+            // Ini adalah cara paling standar di SDK modern agar API key berganti di setiap loop
+            const client = new stitch.Stitch({ apiKey: apiKey }); 
+            const project = await client.createProject("KresnaAi_images");
             
-            // Jalankan generator
+            /* // Opsi B: Jika SDK Anda tidak pakai "new stitch.Stitch" melainkan inisialisasi fungsi:
+            stitch.initializeApp({ apiKey: apiKey });
             const project = await stitch.createProject("KresnaAi_images");
+            */
+
             const screen = await project.generate(prompt);
+            
+            // Ambil URL Gambar
+            // Jika screen.getImage() error, coba langsung console.log(screen) untuk melihat strukturnya
             const imageUrl = await screen.getImage(); 
             
             console.log("SUCCESS:" + imageUrl);
-            return; // Berhenti dan keluar dari fungsi jika sukses
+            return; 
             
         } catch (error) {
-            console.warn(`API ke-${i + 1} gagal. Mengalihkan ke API berikutnya... Error: ${error.message}`);
-            // Loop otomatis berlanjut ke API key berikutnya
+            console.warn(`API ke-${i + 1} gagal. Error: ${error.message}`);
         }
     }
     
-    // Jika semua 15 API key dicoba dan semuanya gagal
-    console.error("ERROR: Mohon maaf, sistem mengalami gangguan teknis pada seluruh server gambar.");
+    console.error("ERROR: Mohon maaf, sistem mengalami gangguan.");
     process.exit(1);
 }
 
