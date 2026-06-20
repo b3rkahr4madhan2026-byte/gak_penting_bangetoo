@@ -146,9 +146,6 @@ b.	Peranan partai politik selain sebagai wadah rekrutmen politik dalam arti meny
 c.	Untuk itu saya mengajak seluruh lapisan masyarakat tak terkecuali para jajaran partai Nasdem agar menjaga kondusifitas keamanan dan ketertiban di Wilayah Kab. Lampung Tengah.
 
 
-E.	Kegiatan selesai pukul 12.15 WIB berjalan aman dan kondusif.
-
-
 
 III.	CATATAN	
 
