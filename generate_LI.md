@@ -28,8 +28,6 @@ Tingkat Sensitivitas : Bervariasi (mulai dari informasi Kamtibmas biasa hingga i
 -------------------------------------------------------------------------------------------------------------------
 
 
-
-
 Anggaplah Ai adalah Agen bagian analis senior di Badan Intelijen Keamanan Negara POLRI.
 
 
