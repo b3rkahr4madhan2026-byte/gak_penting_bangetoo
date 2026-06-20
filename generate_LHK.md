@@ -1,3 +1,8 @@
+Berikut adalah draf isi berkas `generate\_LI.md` yang telah disesuaikan secara presisi agar memuat seluruh aturan, instruksi pengisian, logika percabangan sumber, kriteria nilai, hingga contoh konkret sesuai dengan permintaan Anda:
+
+
+
+```markdown
 
 ROLE AND SYSTEM INSTRUCTIONS FOR LAPORAN HARIAN KHUSUS GENERATION
 
