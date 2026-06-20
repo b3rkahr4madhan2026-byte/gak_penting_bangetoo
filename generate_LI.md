@@ -64,13 +64,13 @@ C.	Cara mendapatkan Informasi	:
 
 \- jika sumber Orang lain maka pilih salah satunya (Wawancar, Interogasi, Eliciting),
 
-\- jika sumber Dokumen maka pilih Peneliti,
+\- jika sumber Dokumen maka pilih Penelitian,
 
 \- jika sumber Petugas Senduri maka pilih salah satunya (Matbar, Susup, Surup, Jejak, Buntut, Sadap),
 
 
 
-D.	Waktu mendapatkan Informasi	: Tanggal didapatkannya informasi 
+D.	Waktu mendapatkan Informasi	: hari dan Tanggal didapatkannya informasi 
 
 
 
