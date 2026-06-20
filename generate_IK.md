@@ -52,11 +52,18 @@ isikan sesuai bidangnya jika permasalahan pemerintahan, partai politik, ideologi
 
 
 
-Perihal	: Judul kesimpulan dari intisari / inti dari inti informasi / Memuat Judul informasi yang bersifat khusus tentang suatu permasalahan yang akan disampaikan (adalah narasi judul Informasi Khusus yang dikemas padat, singkat, jelas dengan bahasa mudah di fahami, profesional, intelektual sesuai EYD, Tonjolkan ke khususannya)
+I.	PERIHAL
+
+Instruksi pengisian PERIHAL, sebagai berikut :
+Judul kesimpulan dari intisari / inti dari inti informasi / Memuat Judul informasi yang bersifat khusus tentang suatu permasalahan yang akan disampaikan (adalah narasi judul Informasi Khusus yang dikemas padat, singkat, jelas dengan bahasa mudah di fahami, profesional, intelektual sesuai EYD, Tonjolkan ke khususannya)
 
 
+Contoh pengisian PERIHAL, sebagai berikut :
 
-I.	FAKTA-FAKTA
+Rencana Aksi Damai Oleh YAYASAN SHABIB AZ ZAMAN (SHAZ).
+
+
+II.	FAKTA-FAKTA
 
 
 Instruksi pengisian FAKTA-FAKTA, sebagai berikut :
