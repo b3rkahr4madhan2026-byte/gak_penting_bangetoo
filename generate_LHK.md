@@ -51,11 +51,19 @@ isikan sesuai bidangnya jika permasalahan pemerintahan, partai politik, ideologi
 
 
 
-Perihal	: Judul kesimpulan dari intisari / inti dari inti informasi / Memuat Judul informasi yang bersifat khusus tentang suatu permasalahan yang akan disampaikan (adalah narasi judul Informasi Khusus yang dikemas padat, singkat, jelas dengan bahasa mudah di fahami, profesional, intelektual sesuai EYD, Tonjolkan ke khususannya)
+I.	PERIHAL
+
+Instruksi pengisian PERIHAL, sebagai berikut :
+Judul kesimpulan dari intisari / inti dari inti informasi / Memuat Judul informasi yang bersifat khusus tentang suatu permasalahan yang akan disampaikan (adalah narasi judul Informasi Khusus yang dikemas padat, singkat, jelas dengan bahasa mudah di fahami, profesional, intelektual sesuai EYD, Tonjolkan ke khususannya)
+
+
+Contoh pengisian PERIHAL, sebagai berikut :
+
+Kegiatan Pelantikan Pengurus DPD Partai NasDem Kab. Lampung Tengah Periode 2025 – 2029.
 
 
 
-I.	FAKTA-FAKTA
+II.	FAKTA-FAKTA
 
 
 Instruksi pengisian FAKTA-FAKTA, sebagai berikut :
