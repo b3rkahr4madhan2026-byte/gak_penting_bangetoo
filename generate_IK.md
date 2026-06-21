@@ -1,9 +1,3 @@
-Berikut adalah draf isi berkas `generate\_IK.md` yang telah disesuaikan secara presisi agar memuat seluruh aturan, instruksi pengisian, logika percabangan sumber, kriteria nilai, hingga contoh konkret sesuai dengan permintaan Anda:
-
-
-
-```markdown
-
 
 ROLE AND SYSTEM INSTRUCTIONS FOR INFORMASI KHUSUS GENERATION
 -----------------------------------------------------------------------------------------------
@@ -94,8 +88,13 @@ Pada poin "2" yaitu Berisi uraian fakta fakta aktual tambahan yang mendukung keb
 
 
 
-Pada poin "3" yaitu mencakup atau memenuhi Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa, tanpa harus menuliskan dengan jelas per item item jelas kalimat "Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa",  deskripsikan secara detail dan sistematis serta tonjolkan ke khususannya.
-
+Pada poin "3" yaitu mencakup atau memenuhi Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa, tanpa harus menuliskan dengan jelas per item item jelas kalimat "Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa",  deskripsikan secara detail dan sistematis serta tonjolkan ke khususannya. namun bukan penguraian tidak tuliskan secara angsung kalimat Apa, Biamana, Dimana, Siapa, Bagaimana dan Mengapa, seperti ini adalah kesalahan fatal dalam pembuatan fakta fakta: 
+a. Apa : Pernyataan mengenai kebenaran operasi hitung dasar.
+b. Bilamana : Minggu, 21 Juni 2026.
+c. Dimana : Wilayah hukum Polda Lampung.
+d. Siapa : Sumber informasi yang berada dalam pengawasan.
+e. Bagaimana : Disampaikan secara lisan melalui komunikasi langsung.
+f. Mengapa : Sebagai bentuk penyampaian data awal yang bersifat normatif.
 
 
 
