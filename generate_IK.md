@@ -60,7 +60,7 @@ Judul kesimpulan dari intisari / inti dari inti informasi / Memuat Judul informa
 
 Contoh pengisian PERIHAL, sebagai berikut :
 
-Rencana Aksi Damai Oleh YAYASAN SHABIB AZ ZAMAN (SHAZ).
+PROTES WARGA KELURAHAN SUKARAJA TERHADAP GANGGUAN KETERTIBAN UMUM AKIBAT KEBISINGAN OPERASIONAL DISKOTIK VIPER DAN POTENSI KONFLIK SOSIAL DI KOTA BANDAR LAMPUNG. 
 
 
 II.	FAKTA-FAKTA
@@ -71,7 +71,7 @@ Instruksi pengisian FAKTA-FAKTA, sebagai berikut :
 Memuat fakta-fakta yang tersusun secara sistematis (fakta fakta berurutan nomor 1, 2, 3 dan seterusnya pada setiap paragraf), singkat jelas dari suatu masalah atau kasus yang terjadi dan berkembang (jangan memasukan penilaian / presepsi), Berisikan fakta aktual, akurat dan terpercaya, lengkap dengan profiling nama nama tokoh yang terlibat dalam masalah atau kasus, Hindari sikap untuk memasukan pandangan atau pendapat sendiri dari fakta fakta yang dilaporkan
 
 
-Pada poin "1" yaitu Semua informasi yang meliputi bidang politik, ekonomi, sosial budaya, keamanan (pilih salah satunya), baik peristiwa atau kejadian atau suatu sengaja yang dapat mengarah kepada gangguan kamtibmas, baik yang diperoleh dari sumber intelijen atau diketahui sendiri oleh personil intelijen (berisikan tentang waktu mendapatkan informasi, apa informasinya, kronologis singkat padat jelas informasi), deskripsikan secara detail dan sistematis serta tonjolkan ke khususannya.
+Pada poin "A" yaitu Semua informasi yang meliputi bidang politik, ekonomi, sosial budaya, keamanan (pilih salah satunya), baik peristiwa atau kejadian atau suatu sengaja yang dapat mengarah kepada gangguan kamtibmas, baik yang diperoleh dari sumber intelijen atau diketahui sendiri oleh personil intelijen (berisikan tentang waktu mendapatkan informasi, apa informasinya, kronologis singkat padat jelas informasi), deskripsikan secara detail dan sistematis serta tonjolkan ke khususannya.
 
 
 
@@ -83,12 +83,12 @@ Pada poin "1" yaitu Semua informasi yang meliputi bidang politik, ekonomi, sosia
 
 
 
-Pada poin "2" yaitu Berisi uraian fakta fakta aktual tambahan yang mendukung kebenaran keakuratan informasi, deskripsikan secara sistematis dan mendetail dan rinci tentang semua yang berhubungan dengan serta tonjolkan ke khususannya.
+Pada poin "B" yaitu Berisi uraian fakta fakta aktual tambahan yang mendukung kebenaran keakuratan informasi, deskripsikan secara sistematis dan mendetail dan rinci tentang semua yang berhubungan dengan serta tonjolkan ke khususannya.
 
 
 
 
-Pada poin "3" yaitu mencakup atau memenuhi Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa, tanpa harus menuliskan dengan jelas per item item jelas kalimat "Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa",  deskripsikan secara detail dan sistematis serta tonjolkan ke khususannya. namun bukan penguraian tidak tuliskan secara angsung kalimat Apa, Biamana, Dimana, Siapa, Bagaimana dan Mengapa, seperti ini adalah kesalahan fatal dalam pembuatan fakta fakta: 
+Pada poin "C" yaitu mencakup atau memenuhi Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa, tanpa harus menuliskan dengan jelas per item item jelas kalimat "Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa",  deskripsikan secara detail dan sistematis serta tonjolkan ke khususannya. namun bukan penguraian tidak tuliskan secara angsung kalimat Apa, Biamana, Dimana, Siapa, Bagaimana dan Mengapa, seperti ini adalah kesalahan fatal dalam pembuatan fakta fakta: 
 a. Apa : Pernyataan mengenai kebenaran operasi hitung dasar.
 b. Bilamana : Minggu, 21 Juni 2026.
 c. Dimana : Wilayah hukum Polda Lampung.
@@ -102,45 +102,19 @@ Contoh pengisian FAKTA-FAKTA, sebagai berikut :
 
 
 
-1.	Berdasarkan surat pemberitahuan dari Yayasan Shahib Az Zaman Nomor : 30/B/SHAZ/XII/2023 bahwa pihaknya akan mengadakan kegiatan Aksi Solidaritas Bela Palestina.
+A.	Telah terjadi eskalasi keresahan komunal di kalangan masyarakat Kelurahan Sukaraja, Kecamatan Bumi Waras, Kota Bandar Lampung yang dipicu oleh tingginya tingkat kebisingan dari operasional tempat hiburan malam Diskotik Viper yang berlokasi di Jl. Gatot Subroto No.11 Sukaraja Kec. Bumi Waras, Kota Bandar Lampung. Keluhan ini telah bermutasi menjadi konsumsi publik dan viral di berbagai platform media lokal merujuk pada arus pemberitaan tertanggal 23 Mei 2026.
 
 
-
-2.	Berdasarkan surat pemberitahuan dari Yayasan Shahib Az Zaman Nomor : 30/B/SHAZ/XII/2023 bahwa pihaknya akan mengadakan kegiatan Aksi Solidaritas Bela Palestina.
-
+B.	Sdr. Sugirin Tjastoni selaku Ketua DPD Mapancas Provinsi Lampung yang merupakan salah satu tokoh masyarakat, secara kolektif menuntut Pemerintah Kota Bandar Lampung agar segera mengambil tindakan intervensi berupa penertiban hingga penutupan operasional diskotik tersebut karena merampas hak waktu istirahat warga setempat, terutama pada rentang waktu tengah malam hingga dini hari.
 
 
-3.	Rencana aksi akan dilaksanakan pada :
-	a. Hari		: Jum’at
-	b. Tanggal	: 03 November 2023.
-	c. Pukul	: 14.00 WIB s.d selesai. 
-	d. Lokasi Aksi	: Tugu Adipura Kota Bandar Lampung.
-	e. Jumlah Massa	: Lk. 70 orang.
-	f. Korlap       : Sdr. NOVERI ISWAYUDI
-	g. Isue         : Aksi Bela Palestina
+C.	Operasional Diskotik Viper berlokasi dalam radius yang sangat berdekatan dengan area permukiman padat penduduk tanpa adanya zonasi penyangga. Intensitas dentuman musik memancarkan gelombang suara yang secara teknis melampaui ambang batas kewajaran baku mutu tingkat kebisingan untuk lingkungan residensial.
 
 
+D.	Upaya teguran lisan di tingkat rukun tetangga sebelumnya terpantau tidak membuahkan hasil, di mana pihak manajemen terindikasi meremehkan somasi dari warga sekitar.
 
 
-4.	Kegiatan tersebut Merupakan aksi Nasional yang Serentak dilaksanakan di Berbagai daerah Indonesia oleh Komunitas Syiah untuk mendukung perjuangan rakyat dan bangsa Palestina dalam mencapai kemerdekaannya.
-
-
-
-5.	Adapun Roundown Kegiatan :	
-	a. Pukul 14.00 WIB, Persiapan Aksi di Sekretariat Yayasan
-	b. Pukul 14.15 WIB, Bergerak Konvoi Menuju Tugu Adipura
-	c. Pukul 14.30 WIB, Pembukaan
-	d. Pukul 14.45 WIB, Menyanyikan Lagu Indonesia Raya
-	e. Pukul 15.00 WIB, Orasi – Orasi :
-			    Orasi 1 Oleh Ust GHOZALI
-			    Selingan Yel – Yel dan Puisi
-			    Orasi 2 Oleh Ust HAIDAR HASAN dan Ust SYAFII
-			    Orasi 3 ADAM
-			    Orasi 4 Komunitas yang Mewakili
-	f. Pukul 16.30 WIB, Penggalangan Dana Kepada Masyarakat
-	g. Pukul 16.45 WIB, Do’a Ust HAIDAR YUSUF
-	h. Pukul 16.50 WIB, Pernyataan Sikap
-	i. Pukul 17.00 WIB, Penutup
+E.	Dinamika pengamatan tertutup di lapangan memperlihatkan wujud konsolidasi awal dari himpunan perwakilan warga yang merencanakan pengerahan massa secara masif untuk mendatangi langsung lokasi Diskotik Viper serta Kantor Walikota Bandar Lampung, yang diperparah oleh akumulasi sentimen negatif perihal potensi peredaran minuman keras serta pelanggaran batas jam operasional hiburan umum.
 
 
 
@@ -158,11 +132,11 @@ CONTOH pengisian ANALISA, sebagai berikut :
 
 A. 	ANALISA
 
-   	1. Aksi Damai yang diselenggarakan oleh Yayasan Shahib Az Zaman merupakan aksi nasional yang serentak dilaksanakan diberbagai daerah Indonesia untuk mendorong semua lapisan masyarakat agar mendukung perjuangan rakyat dan bangsa Palestina dalam mencapai kemerdekaannya dan terbebas dari Zionis Israel.
+   	1.	Keberadaan tempat hiburan malam Diskotik Viper yang beroperasi secara frontal dan memicu kebisingan ekstrem di wilayah Kelurahan Sukaraja merupakan wujud pelanggaran nyata terhadap Peraturan Daerah Kota Bandar Lampung tentang ketertiban umum.
 
-	2. SHAHIB AZ ZAMAN (SHAZ) merupakan Yayasan Komunitas Syiah Bandar Lampung yang beralamat di Jl. Jendral Sudirman Gg. SMA Utama No. 35 Kel. Rawa Laut Kec. Enggal Kota Bandar Lampung.
+	2.	Kondisi riil di lapangan merepresentasikan adanya kelalaian fatal manajemen operasional dalam mengaplikasikan fasilitas peredam suara berstandar, sekaligus menyoroti indikasi lemahnya fungsi kontrol berkala dari dinas pemerintah kota yang membidangi perizinan pada fase operasionalisasi.
 
-	3. Perlu diantisipasi adanya massa baik perorangan maupun kelompok yang tidak terkoordinir oleh korlap, yang bersimpati dengan gerakan ini muncul dalam jumlah banyak.
+	3.	Keresahan warga lokal yang kini berekspansi secara digital melalui media massa bertindak sebagai katalisator yang siap memantik polarisasi sosial berskala lebih besar di masyarakat.
 
 
 B. PREDIKSI : minimal 3 paragraf yang bernomor urut 1, 2 dan 3, Prediksi yang akan terjadi terkait gangguan ancaman nyata baik dari dalam negeri maupun luar negeri pada seluruh bidang politik, ekonomi, sosial budaya dan keamanan, tanpa harus menuliskan di awal kalimat "Prediksi yang akan terjadi".
@@ -172,14 +146,14 @@ CONTOH pengisian PREDIKSI, sebagai berikut :
 
 B. 	PREDIKSI
 
-	1. Perlu diantisipasi adanya penutupan jalan oleh massa aksi dengan tujuan memprovokasi aparat keamanan dan pengguna jalan lainnya yang berujung pada keributan sehingga menjadi bahan pemberitaan nasional.
+	1.	Diperkirakan secara kuat akan pecah aksi unjuk rasa yang menghimpun elemen warga Sukaraja, tokoh lintas agama, dan figur pemuda setempat dengan menjadikan bangunan Diskotik Viper serta sentra pemerintahan Kota Bandar Lampung sebagai sasaran unjuk rasa
 
-	2. Antisipasi adanya aksi spontanitas dari massa aksi untuk sweeping dan boikot produk milik yahudi - israel maupun amerika dalam pelaksanaan aksi nantinya, seperti penutupan dan pelemparan batu pada geray starbucks cafe ahmad yani, dimana jarak dari titik aksi kurang lebih hanya 300 meter serta outlet2 McDonald's sekitar titik aksi.
+	2.	Eskalasi kuantitas demonstran sangat mungkin bertambah dalam kurun waktu singkat dan memicu mobilisasi massa spontan manakala aparat Satuan Polisi Pamong Praja belum menginisiasi teguran tertulis, penyegelan sementara, atau evaluasi perizinan.
 
-	3. Antisipasi adanya oknum/pok tertentu yang memanfaatkan aksi untuk menyampaikan orasi dengan mengangkat issue “Putusan MK” yang mendiskriditkan pemerintah, hal tersebut dapat memprovokasi peserta aksi yang dapat dimanfaatkan untuk kepentingan politik. 
+	3.	Terdapat probabilitas tinggi situasi dimanfaatkan oleh kelompok kepentingan atau organisasi kemasyarakatan yang kerap menggunakan dalih pemberantasan maksiat untuk melaksanakan razia liar, yang dapat bermuara pada tindak pidana pengeroyokan maupun perusakan fasilitas swasta. 
 
-	4. Adanya penyusup/oknum yang ingin melakukan provokasi dengan memanfaatkan massa aksi untuk melakukan gangguan kamtibmas, pelaku kejahatan yang memanfaatkan situasi serta wartawan media massa/elektronik yang sedang meliput, petugas pengamanan, para politikus yang ingin mencari popularitas / dukungan.
-
+	4.	Muncul indikator kerawanan berupa potensi benturan fisik antara kerumunan warga pemrotes dengan elemen pengamanan internal diskotik yang berisiko memantik konflik horizontal berkepanjangan dan mendegradasi stabilitas keamanan dan ketertiban masyarakat di ruang lingkup yurisdiksi Polresta Bandar Lampung.
+	
 
 C. LANGKAH-LANGKAH INTELIJEN, Fungsi Kepolisian dan Instansi terkait yang telah dilakukan :
 minimal 3 paragraf yang bernomor urut 1, 2 dan 3 melanjutkan urutan alfabet kapital (ditunjukan kepada Polres/Ta Jajaran Polda Lampung atau Satuan Fungsi (Sat) di tingkat Polres/Ta jajaran atau Satuan kerja (satker) di tingkat Polda Lampung, Stake Holder terkait dibidangnya, saran terbaik dan bermanfaat guna terciptanya situasi keamanan ketertiban masyarakat yang kondusif), tanpa harus menuliskan di awal kalimat "Rekomendasi"
@@ -189,11 +163,13 @@ CONTOH pengisian LANGKAH-LANGKAH INTELIJEN, sebagai berikut :
 
 C.	LANGKAH-LANGKAH INTELIJEN
 
-	1. Melakukan mapping, deteksi dan penggalangan terhadap korlap aksi, lintas tokoh, lintas ormas dan lintas komunitas sehingga dapat mereduksi jumlah massa aksi.
-
-	2. Melakukan penggalangan terhadap tokoh - tokoh inisiator dan penggerak aksi.
-
-	3. Melakukan Patroli Cyber dan kontra Narasi yang berkembang/beredar di media sosial ataupun media lainnya terkait seruan/ajakan aksi dan pemberitaan negatif/bohong (hoaks).
+	1.	Satuan Intelijen Keamanan Polresta Bandar Lampung bersinergi dengan jajaran tingkat Kepolisian Sektor Teluk Betung Selatan telah melaksanakan taktik deteksi dini disempurnakan dengan penggalangan persuasif terhadap pilar tokoh masyarakat Sukaraja..
+	
+	2.	Melakukan pendekatan yang difokuskan untuk mereduksi temperatur emosi massa supaya membatalkan niat main hakim sendiri, seraya menyuguhkan kepastian bahwa institusi kepolisian siap mengawal penyampaian aspirasi warga kepada pemangku kebijakan sektoral.
+	
+	3.	Menggulirkan implementasi tugas preventif melalui peningkatan intensitas patroli dialogis bersandikan operasi kepolisian terpusat pada jam rawan di lingkar luar perimeter Diskotik Viper guna memberikan efek kejut dan menetralisir niat berkerumun mendadak.
+	
+	4.	Melontarkan dorongan taktis pada dimensi koordinasi birokrasi kepada Pemerintah Kota Bandar Lampung untuk segera mengeksekusi pemanggilan pihak manajemen terkait verifikasi legalitas izin lingkungan
 
 
 D. REKOMENDASI
@@ -205,15 +181,13 @@ CONTOH pengisian LANGKAH-LANGKAH INTELIJEN, sebagai berikut :
 
 D.	REKOMENDASI
 
-	1. Polres/ta jajaran tetap melakukan Mapping, Pulbaket, dan Penggalangan terhadap lintas tokoh, lintas ormas dan lintas komunitas guna meminimalisir pergerakan massa aksi.
-
-	2. Polresta Bandar Lampung di Back Up Polda Lampung agar melakukan pam terbuka dan tertutup dititik kumpul, lokasi aksi serta monitoring terhadap pelaksanaan aksi.
-
-	3. Sat lantas Polresta Bandar Lampung melakukan pengaturan lalu lintas sebagai upaya antisipasi adanya penutupan jalan oleh massa aksi dan penempatan personel pengamanan pada geray starbucks ahmay yani dan outlet2 McDonald's sekitar titik aksi.
-
-	4. Pengamanan aksi dilakukan secara humanis (soft approach) dengan tidak mudah terprovokasi (tidak menimbulkan tindakan kontra produktif) yg dapat dijadikan bahan utk mendiskreditkan jajaran Polda Lampung.
-
-
+	1.	Merekomendasikan kepada Kepala Kepolisian Resor Kota Bandar Lampung agar secara proaktif mendorong Walikota untuk menggelar rapat dengar pendapat lintas sektoral guna mencegah aksi sepihak dari warga.
+	
+	2.	Mendorong forum mediasi yang mutlak menghadirkan Dinas Lingkungan Hidup, Satuan Polisi Pamong Praja, Dinas Penanaman Modal, perwakilan manajemen Diskotik Viper, dan representasi warga Sukaraja guna melahirkan pakta integritas tertulis menyangkut limitasi jam operasional serta pemenuhan standar instalasi peredam suara ruang.
+	
+	3.	Menyiagakan satuan peleton Pengendalian Massa dari fungsi Sabhara Polresta Bandar Lampung sebagai skenario kontingensi apabila jalur mediasi menemui kebuntuan dan demonstran bersikeras mengeksekusi penutupan objek vital tersebut secara paksa.
+	
+	4.	Menerapkan langkah hukum yg profesional dan proporsional guna terciptanya stabilitas Roda ekonomi, Keamanan dan Ketertiban di Masyarakat.
 
 
 KRESNA AI
