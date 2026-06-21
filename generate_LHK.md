@@ -105,44 +105,74 @@ A.	Sabtu, 17 Januari 2026 Pukul 10.00 WIB bertempat di Sekretariat DPD Partai Na
 
 
 B.	Kegiatan dihadiri oleh, sbb :
+
 1.	Ketua DPW Nasdem Provinsi Lampung Drs. H. HERMAN HN., M.M.
+
 2.	Plt. Bupati Lampung Tengah I KOMANG KOHERI, S.E.
+
 3.	FORKOPIMDA Kab. Lampung Tengah.
+
 4.	Ketua DPD Nasdem Kab. Lampung Tengah H. MISWAN RODY, S.IP.
-5.	Anggota DPRD Kab. Lampung Tengah dari Fraksi Nasdem Kab. Lampung Tengah. 
+
+5.	Anggota DPRD Kab. Lampung Tengah dari Fraksi Nasdem Kab. Lampung Tengah.
+
 6.	Pengurus DPD Partai Nasdem Kab. Lampung Tengah.
+
 7.	Para Ketua DPC Partai Nasdem Se-Kab. Lampung Tengah.
+
 8.	Tamu Undangan lk. 100 orang.
 
 
 
-C.	Adapun susunan acara, sbb : 
+C.	Adapun susunan acara, sbb :
+
 1.	Pembukaan
-2.	Menyanyikan lagu Indonesia Raya 
+
+2.	Menyanyikan lagu Indonesia Raya
+
 3.	Menyanyikan lagu Mars Nasdem
+
 4.	Pembacaan Doa
+
 5.	Laporan Ketua Panitia Pelaksana
+
 6.	Pembacaan Surat Keputusan DPP Partai Nasdem Tentang Susunan Pengurus DPD Nasdem Kab. Lampung Tengah
+
 7.	Pelantikan Pengurus DPD Partai Nasdem Lampung Tengah oleh Ketua DPW Partai Nasdem Lampung Tengah.
+
 8.	Sambutan.
+
 9.	Hymne Nasdem dan Penutup.
 
 
+
 D.	Sambuatan-sambutan dalam kegiatan, sbb :
+
 1.	Sambutan Ketua DPD Partai Nasdem Kab. Lampung Tengah H. MISWAN RODY, S.IP., sbb :
+
 a.	Rasa syukur kami ucapkan atas pelantikan hari ini, pengurus yang telah dilantik agar dapat langsung menyusun strategi dan konsolidasi untuk menyalurkan aspirasi masyarakat.
+
 b.	Kami berharap pengurus baru DPD Partai NasDem Kab. Lampung Tengah dapat memiliki semangat muda untuk bekerja bagi masyarakat serta pentingnya sinergi yang kuat antara pemerintah, partai, parlemen, dan masyarakat untuk menjadikan Kab. Lampung Tengah semakin maju.
+
 c.	Kami Partai NasDem Kab. Lampung Tengah berkomitmen untuk memastikan pengurus dari tingkat DPD hingga ranting dapat terus bergerak dan dekat dengan masyarakat, target partai NasDem untuk periode 2025-2029 akan dicapai melalui program-program prioritas yang berorientasi pada kerja nyata.
 
 2.	Pengarahan dan Pidato Ketua DPW Nasdem Drs. H. HERMAN HN., M.M., sbb :
+
 a.	Atas telah dilaksanakannya Pelantikan Pengurus Partai Nasdem Kab. Lampung Tengah mari kita bersama-sama untuk dapat terus bergerak menghadirkan perubahan nyata ditengah masyarakat khususnya bagi masyarakat Kab. Lampung Tengah.
+
 b.	DPD Partai NasDem Kab. Lampung Tengah tidak boleh hanya aktif di ruang politik, tetapi juga harus terjun langsung menjalankan program sosial yang manfaatnya dapat dirasakan oleh masyarakat.
+
 c.	Saya berharap DPD Partai Nasdem Kab. Lampung Tengah setiap bulannya agar dapat melaksanakan kegiatan yang manfaatnya dapat dirasakan oleh masyarakat Kab. Lampung Tengah Inilah bentuk nyata politik tanpa mahar—politik yang benar-benar untuk rakyat.
+
 d.	DPD NasDem Kab. Lampung Tengah saat ini agar dapat fokus pada penguatan struktur Dari Tingkat atas hingga tingkat kebawah serta memastikan bahwa setiap langkah partai NasDem ke depan sejalan dengan cita-cita restorasi Indonesia yang diusung NasDem secara nasional.
 
+
 3.	Sambutan Plt. Bupati Lampung Tengah I KOMANG KOHERI, S.E., sbb :
+
 a.	Saya selaku Plt. Bupati Lampung Tengah menyambut baik atas dilantiknya pengurus DPD dan DPC partai Nasdem Kab. Lampung Tengah, tentunya dengan dilantiknya jajaran partai Nasdem yang baru semakin menguatkan peran partai partai politik yang ada di Kabupaten Lampung Tengah dengan bersama-sama pemerintah daerah mendukung dan menyukseskan setiap program kerja yang dilaksanakan.
+
 b.	Peranan partai politik selain sebagai wadah rekrutmen politik dalam arti menyiapkan calon-calon anggota legislatif, juga adalah meningkatkan partisipasi politik masyarakat demi terjaganya persatuan dan kesatuan.
+
 c.	Untuk itu saya mengajak seluruh lapisan masyarakat tak terkecuali para jajaran partai Nasdem agar menjaga kondusifitas keamanan dan ketertiban di Wilayah Kab. Lampung Tengah.
 
 
@@ -160,9 +190,12 @@ CONTOH pengisian ANALISA, sebagai berikut :
 
 A.	 ANALISA
 
+
 1.	Kegiatan Pelantikan Pengurus DPD Partai NasDem Kab. Lampung Tengah dilaksanakan dalam rangka pengukuhkan struktur kepengurusan masa bakti 2025 – 2029 yang telah disepakati oleh DPW Partai NasDem Prov. Lampung sesuai dengan AD/ART dan mekanisme Partai.
 
+
 2.	Kegiatan tersebut juga merupakan langkah DPW Partai NasDem Prov. Lampung dalam memunculkan Kader Partai yang memiliki potensi dalam mewujudkan visi dan misi Partai sehingga dapat terwujudnya tujuan Partai dalam menghadapi Pemilu Tahun 2029.
+
 
 3.	Pelantikan Pengurus DPD Partai NasDem Kab. Lampung Tengah merupakan langkah DPW Partai NasDem Prov. Lampung dalam hal penyampaian program-program partai di tingkat daerah guna menjaring simpati masyarakat Kab. Lampung Tengah.
 
@@ -175,9 +208,12 @@ CONTOH pengisian PREDIKSI, sebagai berikut :
 
 B.	PREDIKSI
 
+
 1.	Adanya isu negatif di media sosial maupun media massa dengan tujuan untuk menjatuhkan citra Partai NasDem pasca berlangsungnya kegiatan Pelantikan Pengurus DPD Kab. Lampung Tengah Periode 2025 - 2029. 
 
+
 2.	Adanya pro dan kontra antar Kader Partai terhadap Kepengurusan DPD Partai NasDem Kab. Lampung Tengah yang baru, sehingga dapat menyebabkan perpecahan di Internal Partai NasDem.
+
 
 3.	Dimungkinkan adanya Pengurus DPD Partai NasDem Kab. Lampung Tengah yang merupakan Kader titipan dari DPP Partai NasDem dengan tujuan untuk kepentingan pribadi maupun kelompok.
 
@@ -191,10 +227,13 @@ CONTOH pengisian LANGKAH-LANGKAH INTELIJEN, sebagai berikut :
 
 C.	 LANGKAH-LANGKAH INTELIJEN
 
+
 1.	Melaksanakan monitoring, pamtup dan pulbaket pada saat kegiatan Pelantikan Pengurus DPD Partai NasDem Kab. Lampung Tengah Periode 2025 - 2029.
- 
+
+
 2.	Melaksanakan deteksi dini kisaran suara menjelang, padasaat dan pasca Pelantikan Pengurus DPD Partai NasDem Kab. Lampung Tengah Periode 2025 - 2029 guna mapping dan antisipasi kerawanan yang akan timbul.
- 
+
+
 3.	Membuat laporan situasi kepada pimpinan sebagai rujukan untuk mengambil keputusan.
 
 
@@ -207,13 +246,18 @@ CONTOH pengisian LANGKAH-LANGKAH INTELIJEN, sebagai berikut :
 
 D.	 REKOMENDASI
 
+
 1.	Ditunjukan kepada Ka Polres Lampung Tengah agar kiranya dapat memberikan arahan kepada fungsi terkait untuk terus menjaga sinergi dengan seluruh partai politik di wilayah Lampung Tengah dalam semangat menjaga kondusivitas menjelang tahapan Pemilu 2029.
+
 
 2.	Agar Satintelkam Polres Lampung Tengah agar melakukan profiling mendalam dan pulbaket terhadap daftar susunan pengurus baru DPD Partai NasDem Kab. Lampung Tengah periode 2025–2029 guna memetakan potensi kerawanan politik, rekam jejak, serta afiliasi kelompok yang dapat berdampak pada stabilitas kamtibmas di wilayah hukum Polres Lampung Tengah.
 
+
 3.	Unit Politik Satintelkam Polres Lampung Tengah & Unit Siber Satreskrim Polres Lampung Tengah meningkatkan patroli siber (Cyber Patrol) terhadap media sosial maupun media daring lokal guna mendeteksi secara dini narasi negatif, provokasi, atau kampanye hitam yang menyerang citra Partai NasDem pasca-pelantikan, yang berpotensi memicu gesekan sosial di tingkat akar rumput.
 
+
 4. 	Sat Binmas Polres Lampung Tengah dan Polsek Jajaran Polres Lampung Tengah tingkatkan pelaksanaan kegiatan Cooling System dengan mengintensifkan komunikasi, penggalangan (galang), dan koordinasi dengan elit politik, tokoh masyarakat, serta tokoh pemuda di sekitar wilayah sekretariat maupun basis massa Partai NasDem. Langkah ini bertujuan untuk memastikan dinamika internal partai tidak berdampak pada terganggunya stabilitas kamtibmas.
+
 
 5.	Unit Politik Satintelkam Polres Lampung Tengah segera melakukan pemetaan (mapping) terhadap agenda-agenda politik lanjutan yang akan dilaksanakan oleh pengurus baru (seperti Rapat Kerja Daerah, konsolidasi wilayah, atau pelantikan pengurus tingkat bawah), guna menyiapkan langkah antisipasi pengamanan dan monitoring intelijen secara berkelanjutan.
 
@@ -225,6 +269,6 @@ KRESNA AI
 
 OUTPUT REQUIREMENT:
 
-Deskripsikan rinci, detail, terstruktur, sistematis, secara baik, benar, profesional dan akurat serta kaitkan dengan perkembangan informasi berita viral di provinsi lampung yang menonjol ke khususannya. Gunakan narasi dan deskripsi bahasa Intelijen, sebagaimana tanpa di sertai frase kata yang di ulang ulang serta tanpa tanda \*, \*\*, \*\*\*, #, ##, ### dengan target terciptanya situasi aman tertib dan kondusif. Wajib mengidentifikasi dan menyempurnakan penulisan nama tokoh atau pejabat yang disingkat atau hanya berupa nama panggilan dari media online dengan mencari referensi nama lengkap beserta gelar resmi mereka secara akurat. Hasil generate AI harus langsung berupa Laporan Harian Khusus tanpa kalimat pembuka atau penutup tambahan dari AI.
+Deskripsikan rinci, detail, terstruktur, sistematis, secara baik, benar, profesional dan akurat serta kaitkan dengan perkembangan informasi berita viral di provinsi lampung yang menonjol ke khususannya. Gunakan susunan paragraf yang rapih dan mudah di baca oleh user narasi dan deskripsi bahasa Intelijen, sebagaimana tanpa di sertai frase kata yang di ulang ulang serta tanpa tanda \*, \*\*, \*\*\*, #, ##, ### dengan target terciptanya situasi aman tertib dan kondusif. Wajib mengidentifikasi dan menyempurnakan penulisan nama tokoh atau pejabat yang disingkat atau hanya berupa nama panggilan dari media online dengan mencari referensi nama lengkap beserta gelar resmi mereka secara akurat. Hasil generate AI harus langsung berupa Laporan Harian Khusus tanpa kalimat pembuka atau penutup tambahan dari AI.
 
 
