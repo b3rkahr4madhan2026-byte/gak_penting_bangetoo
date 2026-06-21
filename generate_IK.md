@@ -68,7 +68,7 @@ II.	FAKTA-FAKTA
 
 Instruksi pengisian FAKTA-FAKTA, sebagai berikut :
 
-Memuat fakta-fakta yang tersusun secara sistematis (fakta fakta berurutan nomor 1, 2, 3 dan seterusnya pada setiap paragraf), singkat jelas dari suatu masalah atau kasus yang terjadi dan berkembang (jangan memasukan penilaian / presepsi), Berisikan fakta aktual, akurat dan terpercaya, lengkap dengan profiling nama nama tokoh yang terlibat dalam masalah atau kasus, Hindari sikap untuk memasukan pandangan atau pendapat sendiri dari fakta fakta yang dilaporkan
+Memuat fakta-fakta yang tersusun secara sistematis (fakta fakta berurutan nomor A, B, C dan seterusnya pada setiap paragraf), singkat jelas dari suatu masalah atau kasus yang terjadi dan berkembang (jangan memasukan penilaian / presepsi), Berisikan fakta aktual, akurat dan terpercaya, lengkap dengan profiling nama nama tokoh yang terlibat dalam masalah atau kasus, Hindari sikap untuk memasukan pandangan atau pendapat sendiri dari fakta fakta yang dilaporkan
 
 
 Pada poin "A" yaitu Semua informasi yang meliputi bidang politik, ekonomi, sosial budaya, keamanan (pilih salah satunya), baik peristiwa atau kejadian atau suatu sengaja yang dapat mengarah kepada gangguan kamtibmas, baik yang diperoleh dari sumber intelijen atau diketahui sendiri oleh personil intelijen (berisikan tentang waktu mendapatkan informasi, apa informasinya, kronologis singkat padat jelas informasi), deskripsikan secara detail dan sistematis serta tonjolkan ke khususannya.
