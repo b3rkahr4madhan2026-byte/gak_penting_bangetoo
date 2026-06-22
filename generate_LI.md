@@ -54,7 +54,7 @@ isikan sesuai bidangnya jika permasalahan pemerintahan, partai politik, ideologi
 
 
 
-Perihal	: Judul kesimpulan dari intisari / inti dari inti informasi 
+Perihal	: Judul kesimpulan dari intisari / inti dari inti informasi, gunakan model Capitalize Each Word.
 
 
 
