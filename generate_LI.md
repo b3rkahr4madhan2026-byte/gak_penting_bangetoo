@@ -218,7 +218,7 @@ minimal 2 paragraf melanjutkan urutan alfabet kapital (langkah ini meliputi peke
 
 Rekomendasi : 
 
-minimal 2 paragraf melanjutkan urutan alfabet kapital (ditunjukan kepada Polres/Ta Jajaran Polda Lampung atau Satuan Fungsi (Sat) di tingkat Polres/Ta jajaran atau Satuan kerja (satker) di tingkat Polda Lampung, Stake Holder terkait dibidangnya, saran terbaik dan bermanfaat guna terciptanya situasi keamanan ketertiban masyarakat yang kondusif), tanpa harus menuliskan di awal kalimat "Rekomendasi", tidak persingkat kalimat seperti ini Satuan Intelijen Keamanan Kepolisian Resor Kota Bandar Lampung menjadi Satintelkam Polresta Bandar Lampung, utamakan Poin rekomendasi tingkatan Polda, Provinsii di huruf A, B, C, gunakan penyingkatan kalimat ldala narasi yang sesuai seperti Kepala Kepolisian Resor Kota Bandar Lampung menjadi Kapolresta Bandar Lampung, Satuan Binmas menjadi Satbinmas, Fungsi Intelijen tingkat Polda menjadi Ditintelkam Polda Lampung, Direktorat menjadi Dit, rubah Satuan Intelkam menjadi Satintelkam.
+minimal 2 paragraf melanjutkan urutan alfabet kapital (ditunjukan kepada Polres/Ta Jajaran Polda Lampung atau Satuan Fungsi (Sat) di tingkat Polres/Ta jajaran atau Satuan kerja (satker) di tingkat Polda Lampung, Stake Holder terkait dibidangnya, saran terbaik dan bermanfaat guna terciptanya situasi keamanan ketertiban masyarakat yang kondusif), tanpa harus menuliskan di awal kalimat "Rekomendasi", tidak persingkat kalimat seperti ini Satuan Intelijen Keamanan Kepolisian Resor Kota Bandar Lampung menjadi Satintelkam Polresta Bandar Lampung, utamakan Poin rekomendasi tingkatan Polda, Provinsii di huruf A, B, C, gunakan penyingkatan kalimat ldala narasi yang sesuai seperti Kepala Kepolisian Resor Kota Bandar Lampung menjadi Kapolresta Bandar Lampung, Satuan Binmas menjadi Satbinmas, Fungsi Intelijen tingkat Polda menjadi Ditintelkam Polda Lampung, Direktorat menjadi Dit, rubah Satuan Intelkam menjadi Satintelkam, utamakan untuk menyarankan pada tingkat Polres / Polresta dan tingkat Polsek jajaran yang sesuai dengan lokasi informasi.
 
 
 
@@ -242,15 +242,15 @@ D.	Adanya aksi unras spontan dari elemen masyarakat / mahasiswa maupun petani te
 
 
 
-E.	Polres Lampung Selatan dan Polres Lampung Utara melakukan deteksi dan penggalangan terhadap kemungkinan ormas, LSM, Elemen mahasiswa / masyaratakt yang dapat sewaktu - waktu melakukan unjuk rasa atau pemasangan banner serta melakukan pengamanan di lokasi yang sering dijadikan tempat unjuk rasa.
+E.	Polres Lampung Selatan dan Polres Lampung Utara agar meningkatkan dan melakukan deteksi dan penggalangan terhadap kemungkinan ormas, LSM, Elemen mahasiswa / masyaratakt yang dapat sewaktu - waktu melakukan unjuk rasa atau pemasangan banner serta melakukan pengamanan di lokasi yang sering dijadikan tempat unjuk rasa.
 
 
 
-F.	Polres/ta jajaran melakukan deteksi dan penggalangan terhadap kelompok sehingga tidak menghambat kunjungan RI 1.
+F.	Polres/ta jajaran agar melakukan deteksi dan penggalangan terhadap kelompok sehingga tidak menghambat kunjungan RI 1.
 
 
 
-G.	Polres Lampung Selatan dan Polres Lampung Utara mewaspadai titik – titik pemasangan banner provokatif, unras, pelemparan batu pada jalur kedatangan dan kepulangan Presiden RI.
+G.	Polres Lampung Selatan dan Polres Lampung Utara agar mewaspadai titik – titik pemasangan banner provokatif, unras, pelemparan batu pada jalur kedatangan dan kepulangan Presiden RI.
 
 
 
