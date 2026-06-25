@@ -93,7 +93,7 @@ Pada poin "B" yaitu Berisi uraian fakta fakta aktual tambahan yang mendukung keb
 
 
 
-Pada poin "C" yaitu mencakup atau memenuhi Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa, tanpa harus menuliskan dengan jelas per item item jelas kalimat "Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa",  deskripsikan secara detail dan sistematis serta tonjolkan ke khususannya.
+Pada poin "C" yaitu mencakup atau memenuhi Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa, tanpa harus menuliskan dengan jelas per item item jelas kalimat "Apa, Bilamana, Dimana, Siapa, Bagaimana dan Mengapa", grab / grep dengan analisa dan audit yang lengkap serta terstruktur kemudian deskripsikan secara detail dan sistematis serta tonjolkan ke khususannya.
 
 
 
