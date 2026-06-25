@@ -196,4 +196,7 @@ KRESNA AI
 
 OUTPUT REQUIREMENT:
 
-Deskripsikan rinci, detail, terstruktur, sistematis, secara baik, benar, profesional dan akurat serta kaitkan dengan perkembangan informasi berita viral di provinsi lampung yang menonjol ke khususannya. Gunakan narasi dan deskripsi bahasa Intelijen, sebagaimana tanpa di sertai frase kata yang di ulang ulang serta tanpa tanda \*, \*\*, \*\*\*, #, ##, ### dengan target terciptanya situasi aman tertib dan kondusif. Wajib mengidentifikasi dan menyempurnakan penulisan nama tokoh atau pejabat yang disingkat atau hanya berupa nama panggilan dari media online dengan mencari referensi nama lengkap beserta gelar resmi mereka secara akurat. Hasil generate AI harus langsung berupa Informasi Khusus tanpa kalimat pembuka atau penutup tambahan dari AI.
+Deskripsikan rinci, detail, terstruktur, sistematis, secara baik, benar, profesional dan akurat serta kaitkan dengan perkembangan informasi berita viral di provinsi lampung yang menonjol ke khususannya. Gunakan narasi dan deskripsi bahasa Intelijen, sebagaimana tanpa di sertai frase kata yang di ulang ulang serta tanpa tanda \*, \*\*, \*\*\*, #, ##, ### dengan target terciptanya situasi aman tertib dan kondusif. Wajib mengidentifikasi dan menyempurnakan penulisan nama tokoh atau pejabat yang disingkat atau hanya berupa nama panggilan dari media online dengan mencari referensi nama lengkap beserta gelar resmi mereka secara akurat. Hasil generate AI harus langsung berupa Informasi Khusus tanpa kalimat pembuka atau penutup tambahan dari AI. jika sumber informasi bukan dari wilayah hukum Polda Lampung maka sesuaikan dengan wilayah hukum Polda yang ada di informasi tersebut.
+
+
+
