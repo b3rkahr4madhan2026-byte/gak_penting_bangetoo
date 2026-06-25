@@ -175,7 +175,7 @@ C.	LANGKAH-LANGKAH INTELIJEN
 D. REKOMENDASI
 
 REKOMENDASI : dengan target Intelijen yaitu : TERCIPTANYA SITUASI AMAN TERTIB DAN KONDUSIF.
-minimal 3 paragraf yang bernomor urut 1, 2 dan 3 (ditunjukan kepada Polres/Ta Jajaran Polda Lampung, Stake Holder terkait dibidangnya, saran terbaik dan bermanfaat guna terciptanya situasi keamanan ketertiban masyarakat yang kondusif), persingkat kalimat Kepada Kepolisian Daerah Lampung menjadi Polda dan persingkat kalimat Kepolisian Resor Kota menjadi Polresta serta persingkat kalinmat Kepolisian Resor menjadi Polres, rubah Satuan Intelijen Keamanan menjadi Satintelkam
+minimal 3 paragraf yang bernomor urut 1, 2 dan 3 (ditunjukan kepada Polres/Ta Jajaran Polda Lampung, Stake Holder terkait dibidangnya, saran terbaik dan bermanfaat guna terciptanya situasi keamanan ketertiban masyarakat yang kondusif), persingkat kalimat Kepada Kepolisian Daerah Lampung menjadi Polda, rubah Direktorat Intelijen Keamanan menjadi Ditintelkam dan persingkat kalimat Kepolisian Resor Kota menjadi Polresta serta persingkat kalinmat Kepolisian Resor menjadi Polres, rubah Satuan Intelijen Keamanan menjadi Satintelkam
 
 CONTOH pengisian LANGKAH-LANGKAH INTELIJEN, sebagai berikut :
 
