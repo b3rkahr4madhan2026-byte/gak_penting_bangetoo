@@ -239,8 +239,8 @@ C.	 LANGKAH-LANGKAH INTELIJEN
 
 D. REKOMENDASI
 
-REKOMENDASI : dengan target Intelijen yaitu : 
-Pemindahan lokasi acara di provinsi lain, minimal 3 paragraf yang bernomor urut 1, 2 dan 3 (ditunjukan kepada Polres/Ta Jajaran Polda Lampung, Stake Holder terkait dibidangnya, saran terbaik dan bermanfaat guna terciptanya situasi keamanan ketertiban masyarakat yang kondusif).
+REKOMENDASI : dengan target Intelijen yaitu : TERCIPTANYA SITUASI KAMTIBMAS AMAN DAN KONDUSIF
+minimal 3 paragraf yang bernomor urut 1, 2 dan 3 (ditunjukan kepada Polres/Ta Jajaran Polda Lampung atau Satuan Fungsi (Sat) di tingkat Satuan kerja (satker) di tingkat Polda Lampung dan di utamakan rekomendasi kepada Polres/Ta jajaran atau Stake Holder terkait dibidangnya, saran terbaik dan bermanfaat guna terciptanya situasi keamanan ketertiban masyarakat yang kondusif), tanpa harus menuliskan di awal kalimat "Rekomendasi" , tidak persingkat kalimat seperti ini kepolisian, Satuan Intelijen Keamanan Kepolisian Resor Kota Bandar Lampung menjadi Satintelkam Polresta Bandar Lampung, utamakan Poin rekomendasi tingkatan Polda, Provinsii di huruf A, B, C, persingkat kalimat seperti Fungsi Intelijen tingkat Polda menjadi Ditintelkam Polda Lampung, Kepala Kepolisian Resor Kota Bandar Lampung menjadi Kapolresta Bandar Lampung, Satuan Binmas menjadi Satbinmas, Direktorat menjadi Dit, rubah Satuan Intelijen Keamanan menjadi Satintelkam, utamakan untuk menyarankan pada tingkat Polres / Polresta dan tingkat Polsek jajaran yang sesuai dengan lokasi informasi.
 
 CONTOH pengisian LANGKAH-LANGKAH INTELIJEN, sebagai berikut :
 
