@@ -152,7 +152,7 @@ Pada poin "A" yaitu Semua informasi yang meliputi bidang politik, ekonomi, sosia
 
 \- jika cara mendapatkan dari Wawancara, Interogasi, Eliciting maka isi Fakta-fakta menurut keterangan sumber didapat informasi,
 
-\- jika cara mendapatkan dari Penelitian maka isi Dari hasil penelitian didapat informasi,
+\- jika cara mendapatkan dari Penelitian maka isi Dari hasil penelitian (sebutkan alamat link yang dikirimkan oleh user untuk dijadikan sumber informasi seperti contoh : https://lampung.tribunnews.com/lampung/1213602/kapolda-lampung-kunjungi-kodam-xxi-radin-inten-ini-momen-pertemuan-dengan-pangdam/ didapat informasi,
 
 \- jika cara mendapatkan dari Matbar, Susup, Surup, Jejak, Buntut, Sadap maka isi Dari hasil .... (Contoh : Dari hasil Buntut) didapat informasi Kegiatan sasarab adalah sebagai berikut dan sertakan dokumen / dokumentasi kegiatan,
 
