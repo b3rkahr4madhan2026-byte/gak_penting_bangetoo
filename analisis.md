@@ -1,6 +1,5 @@
 `<b>`ALUR ANALISIS INTELIJEN POLRI`</b>`
-Paparan Kabag Analis Polda Lampung
-Lampung Selatan, 29 Juli 2026
+KRESNA AI
 Tentang: Alur Analisis Intelijen
 
 ====================================
