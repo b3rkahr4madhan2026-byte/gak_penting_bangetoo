@@ -1,17 +1,19 @@
-<b>ALUR ANALISIS INTELIJEN POLRI</b>
+`<b>`ALUR ANALISIS INTELIJEN POLRI`</b>`
 Paparan Kabag Analis Polda Lampung
 Lampung Selatan, 29 Juli 2026
 Tentang: Alur Analisis Intelijen
 
 ====================================
-<b>I. SKEMA ALUR ANALISIS INTELIJEN</b>
-----------------------------------------
+`<b>`I. SKEMA ALUR ANALISIS INTELIJEN`</b>`
+--------------------------------
 
 A. FAKTA DAN BAHAN KETERANGAN (BAKET)
+
 1. Pengumpulan fakta mentah dari berbagai sumber lapangan, media digital, dokumen, audio, video, dan narasi.
 2. Diverifikasi dan diuji keabsahannya menggunakan Reasoning Engine 16 Langkah.
 
 B. ANALISIS DAN PENAFSIRAN
+
 1. Metode Analisis:
    a. S.W.O.T (Strengths, Weaknesses, Opportunities, Threats)
    b. FISH BONE (Diagram Ishikawa / Sebab-Akibat 6M)
@@ -25,11 +27,13 @@ B. ANALISIS DAN PENAFSIRAN
    e. Psikologis Analisis
 
 C. PERKIRAAN SITUASI
-1. ðŸŸ¢ Skenario Hijau (Kondisi Aman / Tertib / Terkendali)
-2. ðŸŸ¡ Skenario Kuning (Eskalasi / Kerawanan Sedang / Potensi Gangguan)
-3. ðŸ”´ Skenario Merah (Bahaya / Ancaman Kritis / Huru-Hara / Kerusuhan)
+
+1. 🟢 Skenario Hijau (Kondisi Aman / Tertib / Terkendali)
+2. 🟡 Skenario Kuning (Eskalasi / Kerawanan Sedang / Potensi Gangguan)
+3. 🔴 Skenario Merah (Bahaya / Ancaman Kritis / Huru-Hara / Kerusuhan)
 
 D. UPAYA PENANGANAN KAMTIBMAS
+
 1. Preemtif
 2. Preventif
 3. Represif
@@ -37,16 +41,18 @@ D. UPAYA PENANGANAN KAMTIBMAS
 5. Patroli Siber
 
 E. REKOMENDASI TAKTIS DAN STRATEGIS
+
 1. Skenario Hijau
 2. Skenario Kuning
 3. Skenario Merah
 
 ====================================
-<b>II. METODE ANALISIS INTELIJEN</b>
-----------------------------------------
+`<b>`II. METODE ANALISIS INTELIJEN`</b>`
+-----------------------------
 
 A. S.W.O.T (Strengths, Weaknesses, Opportunities, Threats)
 Analisis SWOT adalah metode perencanaan strategis yang digunakan untuk mengevaluasi posisi suatu organisasi, bisnis, proyek, atau individu dengan memetakan empat elemen utama:
+
 1. Strengths (Kekuatan):
    Atribut, sumber daya, atau keunggulan kompetitif internal yang membuat organisasi unggul.
 2. Weaknesses (Kelemahan):
@@ -66,6 +72,7 @@ B. FISH BONE (Diagram Ishikawa / Sebab-Akibat 6M)
 Metode visual yang digunakan untuk mengidentifikasi, mengategorikan, dan menemukan akar penyebab masalah secara terstruktur.
 
 Kerangka Kategori Utama (6M):
+
 1. Man (SDM):
    Faktor manusia yang terlibat dalam proses (Keterampilan, pelatihan, beban kerja, SOP).
 2. Machine (Mesin):
@@ -89,6 +96,7 @@ C. ROOT CAUSE ANALYSIS (RCA)
 Metode terstruktur yang digunakan untuk mengidentifikasi akar masalah dari suatu peristiwa atau ketidaksesuaian.
 
 Prinsip Dasar RCA:
+
 1. Fokus pada Sistem, Bukan Orang:
    Mencari tahu mengapa sistem/proses gagal, bukan mencari siapa yang salah (no-blame culture).
 2. Fokus pada Why, Bukan Hanya What:
@@ -108,6 +116,7 @@ f). Monitoring Perbaikan
 
 D. FUTURE WHEEL (Roda Masa Depan)
 Metode curah pendapat (brainstorming) dan pemikiran sistemis (systems thinking) yang digunakan untuk memetakan serta memvisualisasikan dampak langsung dan tidak langsung dari suatu keputusan, tren, atau peristiwa di masa depan.
+
 1. Dikembangkan oleh Jerome C. Glenn pada tahun 1972.
 2. Bekerja menyerupai "efek riak air" (ripple effect) yang terpancar dari satu titik pusat.
 3. Pemetaan Dampak:
@@ -117,8 +126,8 @@ Metode curah pendapat (brainstorming) dan pemikiran sistemis (systems thinking) 
 4. Fungsi Utama: Mencegah terjadinya unintended consequences (dampak tak terduga yang merugikan) dari sebuah keputusan besar sebelum dieksekusi.
 
 ====================================
-<b>III. PENDEKATAN ANALISIS INTELIJEN</b>
-----------------------------------------
+`<b>`III. PENDEKATAN ANALISIS INTELIJEN`</b>`
+----------------------------------
 
 A. Yuridis Analisis:
 Kajian dari sudut pandang hukum, menguji masalah/kejadian berdasarkan peraturan perundang-undangan untuk kepastian hukum, hak & kewajiban, serta konsekuensi hukum.
@@ -136,8 +145,8 @@ E. Psikologis Analisis:
 Kajian dari sudut pandang kondisi mental, dorongan emosional, persepsi, tingkat stres, motivasi internal, dan kesehatan jiwa individu atau massa.
 
 ====================================
-<b>IV. UPAYA PENANGANAN KAMTIBMAS & DASAR HUKUM</b>
-----------------------------------------
+`<b>`IV. UPAYA PENANGANAN KAMTIBMAS & DASAR HUKUM`</b>`
+--------------------------------------------
 
 A. Upaya Preemtif:
 Tindakan awal menghilangkan niat (intent) kejahatan melalui edukasi, pembinaan mental, dan dialog sadar hukum. (Perkap No. 1 Thn 2021)
@@ -155,10 +164,11 @@ E. Upaya Patroli Siber:
 Pemantauan dan pengawasan ruang digital/internet (medsos, forum) terhadap narasi provokatif, penipuan, hoax, judol, take-down, serta digital forensik. (Perpol No. 3 Thn 2024)
 
 ====================================
-<b>V. DINAMIKA SITUASI & PERAN SATUAN</b>
-----------------------------------------
+`<b>`V. DINAMIKA SITUASI & PERAN SATUAN`</b>`
+----------------------------------
 
 A. Situasi Hijau (Aman / Tertib)
+
 1. Kondisi: Kehidupan masyarakat tertib, administrasi pemerintahan berjalan baik.
 2. Pengendali: Kendali taktis oleh Kapolsek/Kapolres, teknis oleh Danton/Danki Dalmas Awal.
 3. Peran Satuan:
@@ -168,6 +178,7 @@ A. Situasi Hijau (Aman / Tertib)
    d). Samapta: Dalmas Awal (tanpa tameng/helm hara-hara), negosiator di depan, himbauan simpatik.
 
 B. Situasi Kuning (Eskalasi / Tidak Tertib)
+
 1. Kondisi: Pengunjuk rasa tidak damai, lempari petugas (luka ringan), blokade jalan, negosiasi gagal.
 2. Pengendali: Kendali taktis oleh Kapolres/Kasat Samapta.
 3. Peran Satuan:
@@ -176,6 +187,7 @@ B. Situasi Kuning (Eskalasi / Tidak Tertib)
    c). Samapta: Melakukan Lapis Ganti dari Dalmas Awal ke Dalmas Lanjut (helm, tameng), negosiasi lanjut, penggunaan water cannon & gas air mata atas perintah Kapolres.
 
 C. Situasi Merah (Huru-Hara / Kerusuhan)
+
 1. Kondisi: Aksi anarkis, ancaman luka berat/jiwa, pengrusakan fasilitas berat, penggunaan sajam/molotov.
 2. Pengendali: Kendali umum oleh Kapolda, kendali taktis oleh Komandan Satuan PHH Brimob.
 3. Peran Satuan:
@@ -183,8 +195,8 @@ C. Situasi Merah (Huru-Hara / Kerusuhan)
    b). Samapta / Brimob: Lintas ganti ke Detasemen/Kompi PHH Brimob, pendorongan massa, water cannon, penembakan gas air mata, penangkapan provokator (catch in the act), barikade kawat barier.
 
 ====================================
-<b>VI. FAKTOR KEGAGALAN INTELIJEN</b>
-----------------------------------------
+`<b>`VI. FAKTOR KEGAGALAN INTELIJEN`</b>`
+------------------------------
 
 1. Tidak menguasai teknik dan taktik pengumpulan bahan keterangan (Pulbaket).
 2. Kesalahan analisis & penafsiran data.
